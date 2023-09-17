@@ -12,7 +12,7 @@ const contact = () => {
         </div>
 
         <div>
-          <iframe title="map" className='map' src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14476.817612115266!2d74.6257754!3d24.8910085!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb66e26e8cf396486!2sVijay%20Electronics!5e0!3m2!1sen!2sin!4v1620428700932!5m2!1sen!2sin" frameBorder="0" allowFullScreen></iframe>
+        <iframe title="map" className='map' src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1608.014272047652!2d75.88282921730689!3d25.207609991772898!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1694944322696!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
 
         <div className="row mt-5">
@@ -22,7 +22,7 @@ const contact = () => {
               <div className="address">
                 <i className="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
-                <p>117, Janakpuri colony, Kota</p>
+                <p>117, Janakpuri colony, Kota </p>
               </div>
 
               <div className="email">
