@@ -25,7 +25,7 @@ An ecommerce store built with MERN stack. This ecommerce store enable three main
 
 ## Demo
 
-This application is deployed on Netlify. Please check it out :smile: [here](https://vijay-electronics.netlify.app).
+This application is deployed on Netlify. Please check it out :smile: [here](https://electronic-store-delta.vercel.app/).
 
 ## Languages & tools
 
