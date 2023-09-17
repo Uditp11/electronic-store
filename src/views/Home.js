@@ -55,7 +55,7 @@ export default function Home() {
           <div className="col-lg-6 m-auto">
             <h1 className="h1">Best Selling products</h1>
             <p>
-              Shop for Home Appliances, Laptops & Accessories online at Vijay
+              Shop for Home Appliances, Laptops & Accessories online at Parihar
               Electronics
             </p>
           </div>

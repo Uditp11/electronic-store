@@ -1,4 +1,4 @@
-# Vijay Electronics - MERN Ecommerce
+# Parihar Electronics - MERN Ecommerce
 
 ## Description
 

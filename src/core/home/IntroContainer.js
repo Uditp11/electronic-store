@@ -10,7 +10,7 @@ const IntroContainer = () => {
               className="center font-weight-bold"
               style={{ fontSize: "70px", color: "white" }}
             >
-              Vijay Electronics
+              Parihar Electronics
             </h1>
             <p>one stop destination for home appliance shopping in India.</p>
           </div>

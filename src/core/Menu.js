@@ -153,7 +153,7 @@ const Menu = ({ history }) => (
   //       className="navbar-brand text-dark logo h1 align-self-center"
   //       to="/"
   //     >
-  //       Vijay Electronics
+  //       Parihar Electronics
   //     </Link>
 
   //     <button
